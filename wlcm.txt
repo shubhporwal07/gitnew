@@ -1,0 +1,2 @@
+welcome text
+This is the new message for welcome
