@@ -9,3 +9,4 @@ new day new commit
 Learned fork and branching
 Issue and fork creation and resolving issue
 Stashing and CI CD pipelining
+ci cd new commit
